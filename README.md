@@ -22,3 +22,4 @@
     - [http://koala-app.com/](http://koala-app.com/) - Компилятор для препроцессоров
 6. Разное
     - [https://formspree.io/](https://formspree.io/) - Отправка заявок с сайта
+    - [http://www.roblaplaca.com/examples/bezierBuilder/](http://www.roblaplaca.com/examples/bezierBuilder/) онлайн редактор кривых безье
