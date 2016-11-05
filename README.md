@@ -16,6 +16,11 @@
     - [imakewebthings.com/waypoints](http://imakewebthings.com/waypoints/) - Триггер для скролла
     - [mixitup.kunkalabs.com](https://mixitup.kunkalabs.com/) - Сортируемые анимированные плитки
     - [https://reactiveraven.github.io/jqBootstrapValidation/](https://reactiveraven.github.io/jqBootstrapValidation/) - валидация бутстрап форм
+    - [https://github.com/callmenick/Draw-Fill-SVG] (https://github.com/callmenick/Draw-Fill-SVG) - Анимация svg
+    - [https://modernizr.com/](https://modernizr.com/) - Обнаружение поддерживаемых браузером или устройством возможностей
+    - [http://www.owlcarousel.owlgraphic.com/](http://www.owlcarousel.owlgraphic.com/) - Карусель
+    - [https://github.com/liabru/jquery-match-height](https://github.com/liabru/jquery-match-height) - выравнивание элементов по высоте
+    - [http://fancybox.net/](http://fancybox.net/) - Еще один попап менеджер
 5. CSS плагины
     - [daneden.github.io/animate.css](https://daneden.github.io/animate.css/) - Анимация элементов 
     - [bourbon.io](http://bourbon.io/) - Коллекция миксинов для SASS
