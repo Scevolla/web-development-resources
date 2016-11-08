@@ -7,6 +7,7 @@
     - [fontawesome.io](http://fontawesome.io/)
     - [linea.io](http://linea.io/)
     - [fontello.com](http://fontello.com/)
+    - [https://icomoon.io/app/#/select] (https://icomoon.io/app/#/select)
 3. Фреймворки
     - [getbootstrap.com](http://getbootstrap.com/)
 4. jQuery плагины
